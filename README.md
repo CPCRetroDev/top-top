@@ -38,5 +38,5 @@ Once you have [CPCtelera](https://github.com/lronaldo/cpctelera) installed in yo
 
 * Code, Graphics and Music by [David Girón Jareño](http://twitter.com/davitsu) & [Sandra María Garzón Hernández](http://twitter.com/AlexySGH) / [RantanGames](http://rantangames.com/)
 * Developed using [CPCtelera](https://lronaldo.github.io/cpctelera) by [CPCtelera Authors](http://lronaldo.github.io/cpctelera/files/authors-txt.html#Authors)
-* Music and SFX Composed using [Arkos Tracker](http://www.cpcwiki.eu/index.php/Arkos_Tracker), included in [CPCtelera](https://lronaldo.github.io/cpctelera).
-* GFX and levels created using [Retro Game Asset Studio](http://www.cpcwiki.eu/index.php/Retro_Game_Asset_Studio), included in [CPCtelera](https://lronaldo.github.io/cpctelera).
+* Music and SFX Composed using [Arkos Tracker](http://www.cpcwiki.eu/index.php/Arkos_Tracker) by [Targhan / Arkos](http://www.julien-nevo.com/).
+* GFX and levels created using [Retro Game Asset Studio](http://www.cpcwiki.eu/index.php/Retro_Game_Asset_Studio) by [Lachlan Keown](https://twitter.com/lachlankeown)
